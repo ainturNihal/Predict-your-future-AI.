@@ -1,6 +1,7 @@
 ##Still under construction
 import random
 import choice
+positive = ['Looking good!','Great', 'I am seeing really good timeline!', 'oh WOW!']
 name = input("What is your name?: ")
 print(f"Hello {name}! I am Stella.")
 time.sleep(0)
